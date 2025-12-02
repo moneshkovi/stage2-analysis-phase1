@@ -1,4 +1,5 @@
-# Dependencies for phase1 and backtest scripts
+# Dependencies for all phases (data fetching, backtesting and ML)
 pandas>=1.5
 yfinance>=0.2
 numpy>=1.24
+scikit-learn>=1.2
