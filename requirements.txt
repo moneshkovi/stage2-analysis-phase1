@@ -1,3 +1,4 @@
-# Dependencies for phase1 script
+# Dependencies for phase1 and backtest scripts
 pandas>=1.5
 yfinance>=0.2
+numpy>=1.24
